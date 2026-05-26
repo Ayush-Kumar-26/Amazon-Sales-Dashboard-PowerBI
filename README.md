@@ -1,2 +1,29 @@
-# amazon-sales-analytics-dashboard
-Power BI dashboard analyzing Amazon Seller revenue, order metrics, and product category performance.
+# Amazon Sales Analytics Dashboard | Power BI
+
+Interactive Power BI dashboard built using Amazon Seller data to analyze:
+- Revenue trends
+- Order metrics
+- Category-wise sales performance
+- KPI reporting
+- Business insights
+
+## Dashboard Features
+- KPI Cards
+- Revenue Trend Analysis
+- Product Category Performance
+- Dynamic Slicers
+- Interactive Reporting
+- Semi-automated OneDrive refresh workflow
+
+## Tools Used
+- Power BI
+- Microsoft Excel
+- OneDrive
+- Amazon Seller Reports
+
+## Dashboard Preview
+
+![Dashboard Screenshot](Amazon%20Power%20BI%20Dashboard%20Screenshot.png)
+
+## Project Purpose
+This project was developed to apply business analytics and data visualization techniques using real-world e-commerce sales data.
