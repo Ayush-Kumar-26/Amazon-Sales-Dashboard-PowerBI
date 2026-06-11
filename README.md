@@ -1,5 +1,9 @@
 # Amazon Sales Analytics Dashboard | Power BI
 
+## Dashboard Preview
+
+![Dashboard Screenshot](Amazon%20Power%20BI%20Dashboard%20Screenshot.png)
+
 Interactive Power BI dashboard built using Amazon Seller data to analyze:
 - Revenue trends
 - Order metrics
@@ -20,10 +24,6 @@ Interactive Power BI dashboard built using Amazon Seller data to analyze:
 - Microsoft Excel
 - OneDrive
 - Amazon Seller Reports
-
-## Dashboard Preview
-
-![Dashboard Screenshot](Amazon%20Power%20BI%20Dashboard%20Screenshot.png)
 
 ## Project Purpose
 This project was developed to apply business analytics and data visualization techniques using real-world e-commerce sales data.
