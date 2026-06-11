@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Amazon Power BI Dashboard](Dashboard_preview.png)
+![Amazon Power BI Dashboard](Amazon_Power_BI_Dashboard_Screenshot.png)
 
 Interactive Power BI dashboard built using Amazon Seller data to analyze:
 - Revenue trends
